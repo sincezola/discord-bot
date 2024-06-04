@@ -55,6 +55,10 @@
             "Discord.Net.Webhook": {
               "target": "Package",
               "version": "[3.15.0, )"
+            },
+            "OpenAI": {
+              "target": "Package",
+              "version": "[1.11.0, )"
             }
           },
           "imports": [
